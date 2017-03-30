@@ -1,13 +1,11 @@
 #!/usr/bin/env python
 
-#==========================================================
-#
-# This is a test to print varual data type
-# Auther: XiaoDou
-# Update Time: Mar/29/2017
-# Environment: CentOS 6.5/Python 2.7.12
-#
-#==========================================================
+# ================================================================
+# Describe: This is a test about print varual data type
+# Author: XiaoDou
+# Update time: Mar/29/2017
+# Development environment: CentOS 6.5/python 2.7.12
+# ================================================================
 
 #
 # This is a test of int data type
